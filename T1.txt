@@ -1,0 +1,189 @@
+prime number
+public class primenum{
+
+public static void main(String[]args)
+{
+int num=12;
+int count;
+for(int i=2;i<num;i++)
+{
+if (num%i==0)
+{
+count++;
+break;
+}
+}
+if (count>0)
+System.out.println("Not Prime");
+else 
+System.out.println("Prime");
+}
+}
+********************************************
+LogicProg
+public class Logic{
+public static void main(String[]args)
+{
+String sentence = "I am software Engineer";
+String split[] = sentence.split(" ");
+
+
+for (String value:spilt)
+{
+System.out.println(value + " ");
+}
+for (int i= split.length-1;i>=0;i--);
+{
+System.out.print(split[i]+" ");
+}
+}
+}
+**********************************************
+Reverse sentence
+public class reversestring{
+public static void main(String[]args)
+{
+String sentence = "I am Velocity";
+String split[] = senetnce.split(" ");
+
+
+for(String value:split)
+{
+System.out.println(Value + " ");
+}
+ for (int i=spilt.length-1;i>0;i--)
+{
+System.out.println(split[i]+ " ");
+}
+
+}
+}
+******
+reverse string
+public class reversestring{
+
+public static void main(string[]args)
+{
+String a = "pawan";
+String b =" ";
+char ch;
+for(i=0;i<a.length;i++)
+{
+ ch= a.charAt[i];
+ b= b+ch;
+}
+System.out.println(b);
+
+}
+}
+*************
+public class reversestring{
+public static void main(String[]args)
+{
+String a= "PAwan";
+String b = " ";
+char ch;
+
+for(i=0;i<a.length;i++)
+{
+ch = a.charAt[i];
+b= b+ch;
+}
+System.out.println(b);
+}
+}
+*****
+public class PrimeNum{
+
+public static void main(String[]args)
+{
+int num=11;
+int count=0;
+
+for(i=2;i<num;i++)
+{
+if(num%i==0)
+{
+count++;
+break;
+}
+}
+if(count>0)
+System.out.println("not Prime NUmber)
+else
+System.out.println("Prime NUmber)
+}
+}
+******************************************
+ 
+scanner input
+public class input{
+
+public static void main(STring[]args)
+{
+	Scanner sc = new Scanner(System.in);
+	System.out.println("Enter Data here");
+	String a= sc.next();
+	System.out.println(a);
+
+
+}
+}
+**********************
+public class multi{
+public static void main(String[]args)
+{
+int num1= 5;
+int num2= 7;
+
+int sum=0;
+
+for (i=0;i>num2;i++)
+{
+sum = sum+num1;
+
+}
+System.out.println(sum);
+
+}
+}
+***************
+public class palindrome{
+public static void main(String[]args)
+{
+String a="Eye";
+String b=" " ";
+char ch;
+for(i=;i<a.length-;i++){
+ ch= a.charAt[i];
+b= b+ch;
+}
+System.out.println(b);
+
+if(b.equals(a))
+System.out.println("This is palindrome")
+else
+System.out.println("This is not palindrome");
+}
+}
+****************
+public class blank{
+public static void main(String[]args)
+{
+String a= "P R A V A R A";
+String b=" ";
+char ch;
+
+for(i=0;i<a.length,i++)
+{
+ch=a.charAt[i]
+if(ch==' ')
+{
+int count++;
+
+}
+
+}
+System.out.println(count)
+}
+}
