@@ -1,0 +1,23 @@
+1.Webdriver should be public
+2.we have to maintain test case and page class separately.
+3. We have to use test base class and driver initialisation will be there.
+4. Method functionality will be at page class and excution will be at the test class.
+5.Test class we need to use assertions to get the pass or fail result.
+6. webelements are stored at one place for one pageclass so it will be easy and we have to use encapsulation here.
+7. code should not be hard coded, test data will be maintained seprately.
+8.
+
+
+
+Quetions :
+1. Which reporting tool you used in your orgnisation ?
+2. Explain the structure of your framework ?
+3. after KT & clone code from existing repo. what you do first ?
+4. how to create branch and when it will push to master ?
+5. how you handle stale element exception ?
+6. how many times you do the regression testing ?
+7. when you shedule build in jenkin ?
+8. when you run test in local machine ?
+9. how do you pick test cases for automation ?
+10.what type of exception you get on daily basis ?
+11. report generation methods and how will you report and to whom ?
