@@ -1,3 +1,4 @@
+#check
 1.Webdriver should be public
 2.we have to maintain test case and page class separately.
 3. We have to use test base class and driver initialisation will be there.
@@ -21,3 +22,5 @@ Quetions :
 9. how do you pick test cases for automation ?
 10.what type of exception you get on daily basis ?
 11. report generation methods and how will you report and to whom ?
+
+https://www.youtube.com/watch?v=Rqe_eQ6NUs4
