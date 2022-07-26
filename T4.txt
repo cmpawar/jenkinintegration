@@ -1,0 +1,134 @@
+public class reverseString{
+public static void main(String[]args)
+{
+String a= "Pavan"
+Stirng b= " ";
+char ch;
+
+for(i=0;i<a.length;i++){
+
+ch= a.charAt[i];
+b= b+ch;
+}
+System.out.println(b)
+
+}
+}
+***********
+public class primenumber{
+
+int num=11;
+int count=0;
+
+public static void main(String[]args){
+
+if(i=2;i<num;i++)
+{
+if(num%i==0)
+{
+count++;
+break;
+}
+
+}
+if(count>0)
+System.out.println("Not prime Number)
+else
+System.out.println("Prime Number")
+
+}
+
+}
+*********************************
+public class reversestring{
+
+String a = "Pawan";
+String b= " ";
+char ch;
+public static void main(String[]args)
+{
+for(i=0;i<=a.length;i++)
+{
+ch= a.charAt[i];
+b= b+ch;
+}
+System.out.println(b);
+}
+}
+************************
+public class reverseString{
+
+String a= "Pawan";
+String b= " ";
+char ch;
+
+public static void main(String[]args)
+{
+for(i=0;i<a.legth;i++)
+{
+ch= a.charAt[i];
+b= b+ ch;
+}
+System.out.println(b);
+}
+}
+****************************
+public class reverseSenetence{
+
+String a=" I am Engineer";
+String b[]= a.split(" ");
+
+public static void main(String[]args)
+{
+for(i<=b.length-1;i>0;i--)
+{
+System.out.println(b[i]+" ");
+}
+}
+}
+******************************
+public class reversesentence{
+
+String a= " I Am Engineer";
+String b[]= a.split(" ");
+
+
+for(i<b.length-1;i>0;i--)
+{
+System.out.println(b[i]+" ");
+}
+}
+*******************************
+public class reverseString{
+
+public static void main (String[]args){
+
+String a= "Pavan";
+String b = " ";
+char ch;
+
+for(i=0;i<=a.Length-1;i++){
+	ch=charAt[i];
+	b= b+ch;
+}
+System.out.println(b);
+}
+
+}
+**************************
+public class ReverseSenetence{
+
+public static void main(String[]args){
+
+String a= "I AM ENGINEER";
+String b[]=a.split(" ");
+
+for(i<b.size;i>0;i--)
+{
+System.out.println(b[i]+" ");
+}
+
+
+}
+
+}
